@@ -30,7 +30,6 @@
 <div style="text-align: left;">
     
 - [namerio.biz Surviv Reloaded](https://github.com/NAMERIO/namerio.biz-surviv-reloaded) | *Developed by [hasanger](https://github.com/hsanger) and currently run by me.* Since November 2023.
-- [Random Joke Generator](https://github.com/NAMERIO/randome-joke-generator) | *Developed by me. *November 2023.
 </div>
 
 <hr />
