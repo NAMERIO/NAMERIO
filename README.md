@@ -29,7 +29,7 @@
 
 <div style="text-align: left;">
     
-- [Resurviv](https://github.com/NAMERIO/resurviv) | *Developed by [hasanger](https://github.com/hsanger)* Since November 2023.
+- [Resurviv](https://github.com/NAMERIO/resurviv) |* Since November 2023.
 </div>
 
 <hr />
