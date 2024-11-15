@@ -53,6 +53,6 @@
 
 <!-- Language Stats -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanC3&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMERIO&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000">
 </div>
 <br />
