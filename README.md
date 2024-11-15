@@ -1,49 +1,58 @@
-<h1 align="center">NAMERIO</h1>
+<h1 align="center">Natan</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/javascript%20-%23323330?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/html%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css%20-%231572B6?style=for-the-badge&logo=css3" />
+    <img src="https://img.shields.io/badge/python-%23FFD343?style=for-the-badge&logo=python&logoColor=black" />
+</div>
+
 
 <!-- About Me -->
 <p align="center">
     <ul style="list-style-type: none; padding: 0;">
-        <li>he/him</li>
-        <li>I'm currently in my first year studying Computer Science.</li>
-        <li>Addicted io game player.</li>
-        <li>Am also teaching myself Web Development.</li>
-    </ul>
+        <li>My name is Natan.</li>
+        <li>he/him, I'm currently in my second year studying Computer Science.</li>
+        <li>I like to build stuff with programing.</li>
+  </ul>
 </p>
 
 <hr />
 
-### My Skills
-
+<!-- GitHub Stats -->
 <div align="center">
-    <h3 style="font-size: 20px;">Node.js, GitHub, Python, C Programming, HTML</h3>
-    <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/html%20-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NAMERIO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00">
+</div>
+
+<hr />
+
+<!-- Social Badges -->
+<div align="center">
+    <a href="https://discord.com/invite/vkXCVYbH3V"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@NAMERIO1"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="mailto:natanberhanu22@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <hr />
 
 ### Projects
 
-<div style="text-align: left;">
-    
-- [Resurviv](https://github.com/NAMERIO/resurviv) |* Since November 2023.
+<div style="text-align: left;">  
+- comming soon!!!
+</div>
+<hr />
+
+### Achievements
+<div style="text-align: left;">  
+    - Courcera IBM Data Science <a href="https://coursera.org/share/f349ac742f8fc92eade8efd30fac04f7">Certificate</a>. (2024)
 </div>
 
-<hr />
-
-### 📈 Here are some stats about me:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAMERIO&show_icons=true&theme=nord)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAMERIO&layout=compact&theme=nord)
 
 <hr />
 
-### My Socials
-<!-- Social Badges -->
+<!-- Language Stats -->
 <div align="center">
-    <a href="https://discord.com/invite/vkXCVYbH3V"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://www.youtube.com/@NAMERIO1"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href="mailto:namerio.yt@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanC3&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000">
 </div>
+<br />
