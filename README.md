@@ -11,11 +11,12 @@
 
 <!-- About Me -->
 <p align="center">
-    <ul style="list-style-type: none; padding: 0;">
-        <li>My name is Natan.</li>
-        <li>he/him, I'm currently in my second year studying Computer Science.</li>
-        <li>I like to build stuff with programing.</li>
-  </ul>
+   <ul style="list-style-type: none; padding: 0;">
+    <li>My name is Natan.</li>
+    <li>He/him, I'm currently in my second year studying Computer Science.</li>
+    <li>I like to build stuff with programming.</li>
+    <li>Portfolio Website: <a href="https://namerio.website/" target="_blank">https://namerio.website/</a></li>
+   </ul>
 </p>
 
 <hr />
