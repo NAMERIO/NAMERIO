@@ -39,9 +39,16 @@
 
 ### Projects
 
-<div style="text-align: left;">  
-- comming soon!!!
+<div style="text-align: left;">
+  <ul style="list-style-type: none; padding: 0;">
+    <li>Crypto Currency Tracker: <a href="https://github.com/NAMERIO/cointrack" target="_blank">GitHub</a> - 2024</li>
+    <li>IO Games Hub: <a href="https://github.com/NAMERIO/iogames.games" target="_blank">GitHub</a> <a href="https://iogame.games" target="_blank">Website</a> - 2024, </li>
+    <li>Blind Ranking Game: <a href="https://github.com/NAMERIO/Blind-Ranking-Game" target="_blank">GitHub</a> - 2024</li>
+    <li>Resurviv: <a href="https://github.com/NAMERIO/resurviv" target="_blank">GitHub</a> - 2023</li>
+    <li>Among Us Web Game: <a href="#" target="_blank">Work in Progress</a> - 2025</li>
+  </ul>
 </div>
+
 <hr />
 
 ### Achievements
