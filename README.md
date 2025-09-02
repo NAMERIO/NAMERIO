@@ -89,7 +89,7 @@
 
 <!-- Social Badges -->
 <div align="center">
-    <a href="https://discord.com/invite/vkXCVYbH3V"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="http://discord.com/users/605043565856423955"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://www.youtube.com/@NAMERIO1"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
     <a href="mailto:natanberhanu22@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
