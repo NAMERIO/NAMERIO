@@ -56,6 +56,7 @@
 <div style="text-align: left;">
   <ul style="list-style-type: none; padding: 0;">
     <li>Among Us Web Game: <a href="https://amungus.biz/" target="_blank">Web Page</a> - 2025</li>
+    <li>Resurviv Biz: <a href="https://github.com/NAMERIO/Resurviv" target="_blank">GitHub</a> || <a href="https://resurviv.biz/" target="_blank"> Website</a> - 2025 </li>
     <li>Spritesheet Extractor: <a href="https://github.com/NAMERIO/Spritesheet-Extractor" target="_blank">GitHub</a> || <a href="https://spritesheet-extractor.vercel.app/" target="_blank"> Website</a> - 2025 </li>
     <li>Crypto Currency Tracker: <a href="https://github.com/NAMERIO/cointrack" target="_blank">GitHub</a> - 2024</li>
     <li>IO Games Hub: <a href="https://github.com/NAMERIO/iogames.games" target="_blank">GitHub</a> || <a href="https://iogame.games" target="_blank">Website</a> - 2024 </li>
