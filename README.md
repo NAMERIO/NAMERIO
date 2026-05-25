@@ -30,8 +30,6 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
 
@@ -73,24 +71,14 @@
 
 <hr />
 <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NAMERIO&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=00FF00&title_color=00FF00&icon_color=00FF00">
+
+![](https://github-readme-stats.shion.dev/api?username=namerio&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&text_color=FFFFFF&title_color=00FF99&icon_color=00FF99)
+![](https://streak-stats.demolab.com?user=namerio&theme=shadow_green&hide_border=false&stroke=FFFFFF&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=namerio&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&text_color=FFFFFF&title_color=00FF99)
+
 </div>
-
-<hr />
-
-<!-- Language Stats -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMERIO&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000">
-</div>
-<br />
-
-<hr />
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=namerio&theme=onestar&no-frame=true&no-bg=false&margin-w=4">
-</div>
-<br />
 
 <hr />
 
