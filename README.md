@@ -1,94 +1,85 @@
-<h1 align="center">Natan</h1>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" />
-</div>
-
-
-###
-
-
-<!-- About Me -->
 <p align="center">
-  <ul style="list-style-type: none; padding: 0;">
-    <li>My name is Natan.</li>
-    <li>He/him. I'm currently in my third year, majoring in Software Engineering and minoring in Cybersecurity and IT Management.</li>
-    <li>I like building things with code.</li>
-    <li>Portfolio Website: <a href="https://namerio.website/" target="_blank">https://namerio.website/</a></li>
-  </ul>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF99&height=180&section=header&text=Hey,%20I'm%20Natan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" alt="header" />
 </p>
 
+<p align="center">
+  <a href="https://namerio.website/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Cybersecurity+%2B+IT+Management+Minor;I+build+browser+games+and+web+apps" alt="typing intro" />
+  </a>
+</p>
 
-<hr />
+<p align="center">
+  <a href="https://namerio.website/"><img src="https://img.shields.io/badge/Portfolio-namerio.website-008F5A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
+</p>
+
+---
+
+### About Me
+
+- Third year **Software Engineering** student, minoring in **Cybersecurity** and **IT Management**
+- I like building multiplayer browser games and web tools
+- Currently working on **[TrapRush](https://traprush.io)**
+- Portfolio: **[namerio.website](https://namerio.website/)**
+- He/him
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&perline=6" alt="languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,postgres,mysql,git,linux&perline=7" alt="tools" />
+</p>
+
+---
 
 ### Projects
 
-<div style="text-align: left;">
-  <ul style="list-style-type: none; padding: 0;">
-    <li>Among Us Web Game: 2024 - Now</li>
-    <li>Resurviv Biz: <a href="https://github.com/NAMERIO/Resurviv" target="_blank">GitHub</a> || <a href="https://resurviv.biz/" target="_blank"> Website</a> 2025 - Now </li>
-    <li>Spritesheet Extractor: <a href="https://github.com/NAMERIO/Spritesheet-Extractor" target="_blank">GitHub</a> || <a href="https://spritesheet-extractor.vercel.app/" target="_blank"> Website</a> - 2025 </li>
-    <li>Crypto Currency Tracker: <a href="https://github.com/NAMERIO/cointrack" target="_blank">GitHub</a> - 2024</li>
-    <li>IO Games Hub: <a href="https://github.com/NAMERIO/iogames.games" target="_blank">GitHub</a> || <a href="https://iogame.games" target="_blank">Website</a> - 2024 </li>
-    <li>Blind Ranking Game: <a href="https://github.com/NAMERIO/Blind-Ranking-Game" target="_blank">GitHub</a> - 2024</li>
-  </ul>
-</div>
+| Project | Description | Links |
+| --- | --- | --- |
+| **TrapRush** | Multiplayer party platformer inspired by Ultimate Chicken Horse | [Play](https://traprush.io) · [GitHub](https://github.com/NAMERIO/traprush) |
+| **Resurviv Biz** | 2D battle royale in the browser | [Play](https://resurviv.biz/) · [GitHub](https://github.com/NAMERIO/Resurviv) |
+| **Among Us Web Game** | A web version of Among Us | Coming soon |
+| **Spritesheet Extractor** | Pull individual sprites out of a spritesheet | [Website](https://spritesheet-extractor.vercel.app/) · [GitHub](https://github.com/NAMERIO/Spritesheet-Extractor) |
+| **IO Games Hub** | A hub for discovering .io games | [GitHub](https://github.com/NAMERIO/iogames.games) |
+| **Crypto Currency Tracker** | Track cryptocurrency prices | [GitHub](https://github.com/NAMERIO/cointrack) |
+| **Blind Ranking Game** | Rank items one at a time without knowing what comes next | [GitHub](https://github.com/NAMERIO/Blind-Ranking-Game) |
 
-<hr />
+---
 
 ### Achievements
-<div style="text-align: left;">  
-    - Courcera IBM Data Science <a href="https://coursera.org/share/f349ac742f8fc92eade8efd30fac04f7">Certificate</a>. (2024)
-</div>
 
-<hr />
-<!-- GitHub Stats -->
-<!-- GitHub Stats -->
-<div align="center">
+- **IBM Data Science** Professional Certificate, Coursera (2024) · [View certificate](https://coursera.org/share/f349ac742f8fc92eade8efd30fac04f7)
 
-![](https://github-readme-stats.shion.dev/api?username=namerio&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&text_color=FFFFFF&title_color=00FF99&icon_color=00FF99)
-![](https://streak-stats.demolab.com?user=namerio&theme=shadow_green&hide_border=false&stroke=FFFFFF&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=namerio&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&text_color=FFFFFF&title_color=00FF99)
+---
 
-</div>
+### GitHub Stats
 
-<hr />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=namerio&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&text_color=FFFFFF&title_color=00FF99&icon_color=00FF99&show_icons=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=namerio&theme=shadow_green&hide_border=true&count_private=true&layout=compact&text_color=FFFFFF&title_color=00FF99" alt="top languages" />
+</p>
 
-<!-- Social Badges -->
-<div align="center">
-    <a href="http://discord.com/users/605043565856423955"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://www.youtube.com/@NAMERIO1"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href="mailto:natanberhanu22@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=namerio&theme=shadow_green&hide_border=true&stroke=FFFFFF&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namerio&bg_color=0d1117&color=FFFFFF&line=00FF99&point=FFFFFF&area=true&area_color=00FF99&hide_border=true" alt="activity graph" />
+</p>
 
+---
 
+### Connect With Me
 
+<p align="center">
+  <a href="https://namerio.website/"><img src="https://img.shields.io/badge/Portfolio-008F5A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="http://discord.com/users/605043565856423955"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@NAMERIO1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:natanberhanu22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0d1117&height=100&section=footer" alt="footer" />
+</p>
