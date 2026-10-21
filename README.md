@@ -64,11 +64,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=namerio&theme=shadow_green&hide_border=true&stroke=FFFFFF&ring=00FF99&fire=00FF99&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namerio&bg_color=0d1117&color=FFFFFF&line=00FF99&point=FFFFFF&area=true&area_color=00FF99&hide_border=true" alt="activity graph" />
-</p>
-
 ---
 
 ### Connect With Me
