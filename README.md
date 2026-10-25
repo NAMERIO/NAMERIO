@@ -38,7 +38,7 @@
 
 | Project | Description | Links |
 | --- | --- | --- |
-| **TrapRush** | Multiplayer party platformer inspired by Ultimate Chicken Horse | [Play](https://traprush.io) · [GitHub](https://github.com/NAMERIO/traprush) |
+| **TrapRush** | Multiplayer party platformer inspired by Ultimate Chicken Horse | [Play](https://traprush.io) |
 | **Resurviv Biz** | 2D battle royale in the browser | [Play](https://resurviv.biz/) · [GitHub](https://github.com/NAMERIO/Resurviv) |
 | **Among Us Web Game** | A web version of Among Us | Coming soon |
 | **Spritesheet Extractor** | Pull individual sprites out of a spritesheet | [Website](https://spritesheet-extractor.vercel.app/) · [GitHub](https://github.com/NAMERIO/Spritesheet-Extractor) |
